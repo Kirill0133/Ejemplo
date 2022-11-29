@@ -5,6 +5,7 @@
 2. [Sistemas](#sistemas)
 3. [FOL](#fol)
 4. [Diferentes encabezados](#diferentes-encabezados)
+5. [Muy buenas](#muy-buenas)
 
 # Entornos de desarrollo
 
@@ -17,6 +18,8 @@
 ## Hola
 ### Hola
 #### Hola
+
+# Muy buenas
 
 # Diferente tipografía
 _Hola_
